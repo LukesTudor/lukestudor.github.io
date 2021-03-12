@@ -1,0 +1,15 @@
+.Text{
+  color:darkgrey;
+  position:relative;
+  top:350px;
+  left:550px;
+  
+}
+
+body {
+  background-color: black;
+}
+.Image{
+  position: relative;
+  left:500px;
+}
